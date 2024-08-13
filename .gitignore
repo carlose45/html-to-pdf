@@ -1,0 +1,49 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.swp
+*.swo
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# OS generated files
+Desktop.ini
