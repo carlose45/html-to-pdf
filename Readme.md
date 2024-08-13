@@ -66,15 +66,13 @@ Para construir el proyecto y empaquetarlo en un archivo JAR, sigue estos pasos:
    mvn clean install
    ```
 
-   Este comando compila el código, ejecuta las pruebas y empaqueta el proyecto en un archivo JAR ubicado en `target/`.
+   Este comando compila el código y empaqueta el proyecto en un archivo JAR ubicado en `target/`.
 
 2. **Ejecutar el archivo JAR (si se ha empaquetado):**
 
    ```sh
-   java -jar target/tu-repositorio-1.0-SNAPSHOT.jar
+   java -jar target/html-to-pdf-1.0.jar
    ```
-
-   Reemplaza `tu-repositorio-1.0-SNAPSHOT.jar` con el nombre del archivo JAR generado.
 
 ## Licencia
 
