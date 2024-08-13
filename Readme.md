@@ -32,8 +32,8 @@ Esta aplicación toma información sobre el candidato (como experiencia laboral,
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/carlose45/html-to-pdf.git
+   cd html-to-pdf
    ```
 
 2. Asegúrate de tener Maven instalado. Puedes verificarlo con:
